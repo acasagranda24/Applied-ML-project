@@ -1,0 +1,14 @@
+{
+  "model": "lightgbm",
+  "params": {
+    "n_estimators": 600,
+    "learning_rate": 0.042067720952213374,
+    "num_leaves": 29,
+    "min_child_samples": 71,
+    "colsample_bytree": 0.5359462461050077
+  },
+  "threshold": 0.3794830989361113,
+  "cv_pr_auc": 0.8301067740581404,
+  "cv_pr_auc_std": 0.0068520580212712325,
+  "cv_roc_auc": 0.9292324458264352
+}
