@@ -1,0 +1,6 @@
+,before,after
+equal_opportunity_gap,0.075,0.003
+demographic_parity_gap,0.216,0.182
+precision,0.7113,0.7035
+recall,0.7451,0.7481
+f1,0.7278,0.7251
